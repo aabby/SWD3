@@ -1,0 +1,12 @@
+﻿MODName 測試新文字效果
+MODAuthor softstar
+MODDate 2016,12,22
+MODVersion 1,0
+MODinfo 在煉妖壺中放置另外一個妮可，說話訊息使用測試中的效果%Q
+MODGameVersion 2,1
+MODpicture
+;Datas TYPE ,LangID ,FileName ,Comment
+; TYPE:0=txt 1=ext 2=script 3=png 4=font >100=壓縮 ;LangID 0=default 1=chs,
+DAT 0,1,test_newText.txt,訊息內容
+DAT 0,0,test_newText.txt,訊息內容
+DAT 2,0,test_newText.lua,設定資料與腳本
